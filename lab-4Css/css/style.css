@@ -1,0 +1,36 @@
+
+.section-A {
+    background-color: #f8d7da; 
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 1px solid #000; 
+    border-radius: 0px; 
+}
+
+.section-B {
+    background-color: #cce5ff; 
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 1px solid #000; 
+    border-radius: 0px; 
+}
+
+.section-C, .section-D {
+    background-color: #d4edda; 
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 1px solid #000; 
+    border-radius: 0px; 
+}
+
+.section-E, .section-F {
+    background-color: #fff3cd; 
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 1px solid #000; 
+    border-radius: 0px; 
+}
+
+.section-F{
+    background-color: rgb(209, 207, 207);
+}
